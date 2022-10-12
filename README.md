@@ -7,10 +7,19 @@ This is the place where I opensource stuff and break things :rofl:
 - 💞️ I’m looking to collaborate on ...AI Projects
 
 
-<summary>📈 My GitHub Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NithishNithi&show_icons=true&theme=gotham" alt="NITHISH T" />
-</details></br>
-<hr>
+<br>
+
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/NithishNithi/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/NithishNithi/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
