@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👀 I’m interested in ...Learning new about AI
 - 🌱 I’m currently learning ...B.Tech Information Technology
 - 💞️ I’m looking to collaborate on ...AI Projects
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/nithisht/
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -17,5 +17,4 @@ This is the place where I opensource stuff and break things :rofl:
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=nithi007&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
+ 
