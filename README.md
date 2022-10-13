@@ -1,10 +1,10 @@
-<center><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1></center>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 This is the place where I opensource stuff and break things :rofl:
-- 👋 Hi, I’m NITHISH T
-- 👀 I’m interested in Learning new about Artificial Intelligence
-- 🌱 I’m currently pursing B.Tech Information Technology at Bannariamman Institute of Technology
-- 💞️ I’m looking to collaborate on ...AI Projects
+- 👋 Hi, I’m NITHISH T<br>
+- 👀 I’m interested in Learning new about Artificial Intelligence<br>
+- 🌱 I’m currently pursing B.Tech Information Technology at Bannariamman Institute of Technology<br>
+- 💞️ I’m looking to collaborate on ...AI Projects<br>
 
  ## Skills:
 
