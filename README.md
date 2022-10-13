@@ -51,15 +51,12 @@ This is the place where I opensource stuff and break things :rofl:
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/i_m_mortal_king/)
 </p>
 
-| <a href="https://github.com/NithishNithi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/NithishNithi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/NithishNithi/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/NithishNithi/github-stats-transparent/output/generated/languages.svg)
 
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=NithishNithi&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=NithishNithi&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/NithishNithi/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithishNithi&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/NithishNithi/github-readme-stats)
- -->
+</a>
  ### Show some ❤️ by starring some of the repositories!
  
