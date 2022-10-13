@@ -52,11 +52,12 @@ This is the place where I opensource stuff and break things :rofl:
 </p>
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/NithishNithi/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/NithishNithi/github-stats-transparent/output/generated/languages.svg)
 
-</a>
+<p><img src="https://github-readme-stats.vercel.app/api?username=NithishNithi&show_icons=true&theme=dracula" alt="NithishNithi" /></p>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C173%20hrs%2037%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
  ### Show some ❤️ by starring some of the repositories!
  
