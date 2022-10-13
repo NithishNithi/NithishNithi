@@ -27,9 +27,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 #### Developer/Forums
 
-[CodeChef][<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.kaggle.com/nithi007)
-[<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/nithi007)
-[<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/nithi007)
+[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/nithi12345)
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/user2828O/)
+[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/20222442/nithish-t)
 
 #### Tools and Technologies
 
