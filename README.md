@@ -1,9 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<center><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1></center>
 
 This is the place where I opensource stuff and break things :rofl:
-- 👋 Hi, I’m @NithishNithi(NITHISH T)
-- 👀 I’m interested in ...Learning new about AI
-- 🌱 I’m currently pursing ...B.Tech Information Technology
+- 👋 Hi, I’m NITHISH T
+- 👀 I’m interested in Learning new about Artificial Intelligence
+- 🌱 I’m currently pursing B.Tech Information Technology at Bannariamman Institute of Technology
 - 💞️ I’m looking to collaborate on ...AI Projects
 
  ## Skills:
