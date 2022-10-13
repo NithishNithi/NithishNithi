@@ -8,10 +8,9 @@ This is the place where I opensource stuff and break things :rofl:
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NithishNithi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br>
-       
- ### Show some ❤️ by starring some of the repositories!
- <p align="center">
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NithishNithi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br>
+  
+   <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
@@ -23,5 +22,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 <br>
 </p>
+
+       
+ ### Show some ❤️ by starring some of the repositories!
 
  
