@@ -3,7 +3,7 @@
 This is the place where I opensource stuff and break things :rofl:
 - 👋 Hi, I’m @NithishNithi(NITHISH T)
 - 👀 I’m interested in ...Learning new about AI
-- 🌱 I’m currently learning ...B.Tech Information Technology
+- 🌱 I’m currently pursing ...B.Tech Information Technology
 - 💞️ I’m looking to collaborate on ...AI Projects
 
  ## Skills:
