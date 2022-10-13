@@ -50,6 +50,7 @@ This is the place where I opensource stuff and break things :rofl:
 ### 📊 Github Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=NithishNithi&show_icons=true&theme=dracula" alt="NithishNithi" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithishNithi&theme=dark)](https://git.io/streak-stats)
 
 
  ### Show some ❤️ by starring some of the repositories!
