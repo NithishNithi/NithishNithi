@@ -6,7 +6,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently pursing B.Tech Information Technology at Bannariamman Institute of Technology<br>
 - 💞️ I’m looking to collaborate on ...AI Projects<br>
 
-
  ## Skills:
 
 #### Languages:
