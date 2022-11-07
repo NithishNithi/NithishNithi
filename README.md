@@ -29,6 +29,7 @@ This is the place where I opensource stuff and break things :rofl:
 [<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/20222442/nithish-t)
 
 
+
 #### IDEs
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
