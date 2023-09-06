@@ -2,7 +2,7 @@
 
 This is the place where I opensource stuff and break things :rofl:
 - 👋 Hi, I’m NITHISH T<br>
-- 👀 I’m interested in Learning new about Artificial Intelligence<br>
+- 👀 I’m interested in Learning New Technologies<br>
 - 🌱 I’m currently pursing B.Tech Information Technology at Bannariamman Institute of Technology<br>
 - 💞️ I’m looking to collaborate on ...AI Projects<br>
 
