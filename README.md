@@ -48,7 +48,7 @@ const MrNithishT = {
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=NithishNithi&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishNithi&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="NithishNithi"/> </p>
 <h3 align="center">I'm currently vibing to 🎧</h3>
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31czvbttfiy5u2lwvryljv5yiyfq&cover_image=true&theme=default" height="300px" alt="spotify">
+<p align="center"><img src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31czvbttfiy5u2lwvryljv5yiyfq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]" height="300px" alt="spotify">
 	<img src="https://spotify-recently-played-readme.vercel.app/api?user=31czvbttfiy5u2lwvryljv5yiyfq"  alt="spotify" height="300px"></p>
 
 <h2 align="center">Let's Connect :coffee:</h2></a>
