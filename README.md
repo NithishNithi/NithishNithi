@@ -7,16 +7,16 @@ src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" 
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
 
 ```javascript
-const CrazyChickenDev = {
+const MrNithishT = {
     pronouns: "he" | "him",
     location: ["benin city, ng"],
-    contact: ["dannychukz15@gmail.com"],
-    portfolio: ["https://nwaobidaniel.netlify.app"],
+    contact: ["nithishthangarasu02@gmail.com"],
+    portfolio: ["https://mrnithisht.netlify.app"],
     collaborations: ["IoT", "robotics", "pentesting", "security research techniques", 
                     "embedded systems engineering"],
     workingOn: ["building a solid career in the cyber-security field here in my country..."],
-    learning: ["front-End", "web dev", "node.js", "devOps with azure"],
-    askMeAbout: ["emerging trends", "android rom development", "darknet diaries", "robotics", 
+    learning: ["front-End", "back-End", "Go", "devOps"],
+    askMeAbout: ["emerging trends", "darknet diaries", "robotics", 
                 "tech", "cyber-ops", "crypto", "music"],
     hobbies: {
         major: {
