@@ -1,60 +1,62 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<!--<p align="center"> <img src="#" /> </p>
+<p align="center"> <img src="#" /> </p>-->
 
-This is the place where I opensource stuff and break things :rofl:
-- 👋 Hi, I’m NITHISH T<br>
-- 👀 I’m interested in Learning New Technologies<br>
-- 🌱 I’m currently pursing B.Tech Information Technology at Bannariamman Institute of Technology<br>
-- 💞️ I’m looking to collaborate on ...AI Projects<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=FFDE59" alt="crazychickendev" /> <img
+src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
+src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
+src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
 
- ## Skills:
-
-
-#### Languages:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-
-#### ML/DL
-
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-
-
-#### Developer/Forums
-
-[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/nithi12345)
-[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/user2828O/)
-[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/20222442/nithish-t)
-
-
-#### IDEs
-
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
-
-## Connect with me:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/nithi007)
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/Nithi06510865) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nithishthangarasu02@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nithisht/)
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/mrnithisht/)
+```javascript
+const CrazyChickenDev = {
+    pronouns: "he" | "him",
+    location: ["benin city, ng"],
+    contact: ["dannychukz15@gmail.com"],
+    portfolio: ["https://nwaobidaniel.netlify.app"],
+    collaborations: ["IoT", "robotics", "pentesting", "security research techniques", 
+                    "embedded systems engineering"],
+    workingOn: ["building a solid career in the cyber-security field here in my country..."],
+    learning: ["front-End", "web dev", "node.js", "devOps with azure"],
+    askMeAbout: ["emerging trends", "android rom development", "darknet diaries", "robotics", 
+                "tech", "cyber-ops", "crypto", "music"],
+    hobbies: {
+        major: {
+            indoor: ["dancing", "cooking","watching animes", "gaming"],
+	    outdoor: ["traveling", "playing soccer"],
+        },
+        funFact: {
+            secret: ["I freaking love music", "dogs"],
+        }        
+    }
+};
+```
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
+<h3 align="center">Tech Stack 🍗:</h3>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-ffb400?style=flat-square&logo=shell&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-ffb400?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-### 📊 Github Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=NithishNithi&show_icons=true&theme=dracula" alt="NithishNithi" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
+<h3 align="center">I'm currently vibing to 🎧</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NithishNithi&theme=dracula)](https://git.io/streak-stats)
-
- ### Show some ❤️ by starring some of the repositories!
- 
- 
+<h2 align="center">Let's Connect :coffee:</h2></a>
+<p align="center">
+	<a href="https://github.com/CrazyChickenDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nwaobidaniel/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/nielle.knight.3/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/thecanva_shogun"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+        <a href="https://wa.me/2348022273025"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+        <a href="https://www.reddit.com/user/dannychukz15/"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
+</p>
+<!--<p align="center"> <img src="#" /> </p>-->
