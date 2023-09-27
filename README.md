@@ -20,11 +20,11 @@ const MrNithishT = {
                 "tech", "cyber-ops", "crypto", "music"],
     hobbies: {
         major: {
-            indoor: ["dancing", "cooking","watching animes", "gaming"],
+            indoor: ["dancing", "cooking","watching movies", "gaming"],
 	    outdoor: ["traveling", "playing soccer"],
         },
         funFact: {
-            secret: ["I freaking love music", "dogs"],
+            secret: ["I freaking love music"],
         }        
     }
 };
@@ -32,11 +32,12 @@ const MrNithishT = {
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 <h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-Go-ffb400?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-ffb400?style=flat-square&logo=go&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-ffb400?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-ffb400?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
 </p>
 
