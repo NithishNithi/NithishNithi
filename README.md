@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👀 I’m interested in Learning New Technologies<br>
 - 🌱 I’m currently pursing B.Tech Information Technology at Bannariamman Institute of Technology<br>
 - 💞️ I’m looking to collaborate on ...AI Projects<br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
  ## Skills:
 
