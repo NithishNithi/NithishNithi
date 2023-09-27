@@ -9,7 +9,7 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 ```javascript
 const MrNithishT = {
     pronouns: "he" | "him",
-    location: ["benin city, ng"],
+    location: ["Chennai, TN"],
     contact: ["nithishthangarasu02@gmail.com"],
     portfolio: ["https://mrnithisht.netlify.app"],
     collaborations: ["IoT", "robotics", "pentesting", "security research techniques", 
