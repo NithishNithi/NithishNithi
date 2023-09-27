@@ -1,10 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<!--<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=0yze7yareh19u7dy1kjabm97m&cover_image=true&theme=default&bar_color_cover=true" width="200"/>
+-->
+![Header](./data/github-header-image.png)
 
-This is the place where I opensource stuff and break things :rofl:
-- 👋 Hi, I’m NITHISH T<br>
-- 👀 I’m interested in Learning New Technologies<br>
-- 🌱 I’m currently pursing B.Tech Information Technology at Bannariamman Institute of Technology<br>
-- 💞️ I’m looking to collaborate on ...AI Projects<br>
+<!-- ## Hi 👋, I am Abhishek Choudhary, a technology ❤ enthusiast. -->
+<!-- <img  src="data/borderseperator.gif"> -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
  ## Skills:
 
