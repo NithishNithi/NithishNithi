@@ -44,6 +44,7 @@ const MrNithishT = {
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<div style="display: flex; flex-direction: row;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=NithishNithi&show_icons=true&theme=dark#gh-dark-mode-only" />
   </a>
@@ -52,7 +53,7 @@ const MrNithishT = {
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="200"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NithishNithi&hide=jupyter%20notebook&show_icons=true&theme=dark#gh-dark-mode-only&langs_count=8" />
   </a>
-
+</div>
 
 
 
