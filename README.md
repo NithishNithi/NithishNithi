@@ -48,7 +48,7 @@ const MrNithishT = {
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NithishNithi&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NithishNithi&hide=jupyter%20notebook&show_icons=true&theme=dark#gh-dark-mode-only&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NithishNithi&hide=jupyter%20notebook&show_icons=true&theme=dark#gh-dark-mode-only&layout=compact&langs_count=8&card_width=400" />
 </a>
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center">
