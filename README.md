@@ -45,10 +45,10 @@ const MrNithishT = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NithishNithi&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NithishNithi&layout=compact&langs_count=8&card_width=320" />
 </a>
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center">
