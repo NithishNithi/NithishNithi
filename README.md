@@ -44,9 +44,12 @@ const MrNithishT = {
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p align="center" height='130px'> 
-	<img src="https://github-readme-stats.vercel.app/api?username=NithishNithi&theme=dark&show_icons=true" alt="NithishNithi"/>
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NithishNithi" alt="NithishNithi"/> </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center">
 	<img src="https://spotify-recently-played-readme.vercel.app/api?user=31czvbttfiy5u2lwvryljv5yiyfq"  alt="spotify" height="300px">
