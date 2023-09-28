@@ -45,7 +45,7 @@ const MrNithishT = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> 
-	<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=NithishNithi&theme=dark&show_icons=true" alt="NithishNithi"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishNithi&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="NithishNithi"/> </p>
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center">
