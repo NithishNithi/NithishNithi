@@ -53,15 +53,13 @@ const MrNithishT = {
   
 </div>
 
-<div style="width: 50%; float: left;">
+<div style="width: 50%; float: right;">
 
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="200"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NithishNithi&hide=jupyter%20notebook&show_icons=true&theme=dark#gh-dark-mode-only&layout=compact&langs_count=8&card_width=320" />
   </a>
 
 </div>
-
-<div style="clear: both;"></div>
 
 
 
