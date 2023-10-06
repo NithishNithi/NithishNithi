@@ -12,11 +12,9 @@ const MrNithishT = {
     location: ["Chennai, TN"],
     contact: ["nithishthangarasu02@gmail.com"],
     portfolio: ["https://mrnithisht.netlify.app"],
-    collaborations: ["IoT", "robotics", "pentesting", "security research techniques", 
-                    "embedded systems engineering"],
-    workingOn: ["building a solid career in the cyber-security field here in my country..."],
+    workingOn: ["Building a Go-Task Scheduler, Used to track and record their progress"],
     learning: ["front-End", "back-End", "Go", "devOps"],
-    askMeAbout: ["emerging trends", "darknet diaries", "robotics", 
+    askMeAbout: ["emerging trends", "darknet diaries", 
                 "tech", "cyber-ops", "crypto", "music"],
     hobbies: {
         major: {
