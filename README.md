@@ -33,7 +33,7 @@ const MrNithishT = {
   <img alt="Go" src="https://img.shields.io/badge/-Go-ffb400?style=flat-square&logo=go&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-ffb400?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-ffb400?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-ffb400?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
