@@ -63,8 +63,8 @@ const MrNithishT = {
 	<img src="https://spotify-recently-played-readme.vercel.app/api?user=31czvbttfiy5u2lwvryljv5yiyfq"  alt="spotify" height="300px">
 </p>
 
-<h2 align="center">Let's Connect :coffee:</h2></a>
-<a href="https://www.buymeacoffee.com/mrnithisht" target="_blank"><h2 align="center">Buy Me a Coffee</h2></a>
+<h2><a href="https://www.buymeacoffee.com/mrnithisht" target="_blank">Buy Me a Coffee</a></h2>
+
 
 <p align="center">
 	<a href="https://github.com/NithishNithi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
