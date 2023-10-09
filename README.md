@@ -63,7 +63,21 @@ const MrNithishT = {
 	<img src="https://spotify-recently-played-readme.vercel.app/api?user=31czvbttfiy5u2lwvryljv5yiyfq"  alt="spotify" height="300px">
 </p>
 
-<h2><a href="https://www.buymeacoffee.com/mrnithisht" target="_blank">Buy Me a Coffee</a></h2>
+<style>
+  /* Center-align the container (div) */
+  .center-container {
+    text-align: center;
+  }
+
+  /* Center-align the h2 element within the container */
+  .center-container h2 {
+    text-align: center;
+  }
+</style>
+
+<div class="center-container">
+  <h2><a href="https://www.buymeacoffee.com/mrnithisht" target="_blank">Buy Me a Coffee</a></h2>
+</div>
 
 
 <p align="center">
