@@ -64,6 +64,8 @@ const MrNithishT = {
 </p>
 
 <h2 align="center">Let's Connect :coffee:</h2></a>
+<a href="https://www.buymeacoffee.com/mrnithisht" target="_blank"><h2 align="center">Buy Me a Coffee</h2></a>
+
 <p align="center">
 	<a href="https://github.com/NithishNithi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nithisht/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
