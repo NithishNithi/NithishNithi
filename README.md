@@ -76,5 +76,6 @@ const MrNithishT = {
         <a href="https://www.reddit.com/user/NithishNithi"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
 </p>
 <!--<p align="center"> <img src="#" /> </p>-->
+
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
-![Snake animation](https://github.com/NithishNithi/NithishNithi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NithishNithi/NithishNithi/blob/output/github-contribution-grid-snake.gif)
