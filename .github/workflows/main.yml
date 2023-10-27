@@ -25,9 +25,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push changes
-        if: github.ref == 'refs/heads/main'
+      - name: Push to GitHub
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.PAT }}
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Use the GitHub token
+          branch: main # Adjust the branch name
         
