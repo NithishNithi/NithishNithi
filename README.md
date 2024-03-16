@@ -12,7 +12,6 @@ const MrNithishT = {
     location: ["Chennai, TN"],
     contact: ["nithishthangarasu02@gmail.com"],
     portfolio: ["https://mrnithisht.netlify.app"],
-    workingOn: ["Building a Go-Task Scheduler, Used to track and record their progress"],
     learning: ["front-End", "back-End", "Go", "devOps"],
     askMeAbout: ["emerging trends", "darknet diaries", 
                 "tech", "cyber-ops", "crypto", "music"],
