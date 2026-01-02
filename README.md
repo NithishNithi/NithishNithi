@@ -8,23 +8,61 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 
 ```javascript
 const MrNithishT = {
-    pronouns: "he" | "him",
-    location: ["Chennai, TN"],
-    contact: ["nithishthangarasu02@gmail.com"],
-    portfolio: ["https://mrnithisht.netlify.app"],
-    learning: ["front-End", "back-End", "Go", "devOps"],
-    askMeAbout: ["emerging trends", "darknet diaries", 
-                "tech", "cyber-ops", "crypto", "music"],
-    hobbies: {
-        major: {
-            indoor: ["dancing", "cooking","watching movies", "gaming"],
-	    outdoor: ["traveling", "playing soccer"],
-        },
-        funFact: {
-            secret: ["I freaking love music"],
-        }        
-    }
+  pronouns: ["he", "him"],
+  location: ["Chennai, Tamil Nadu, India"],
+  contact: ["nithishthangarasu02@gmail.com", "+91 9345444811"],
+  portfolio: ["https://mrnithisht.netlify.app"],
+  role: ["DevOps Engineer"],
+  experience: {
+    current: {
+      company: "NetXD Inc",
+      title: "DevOps Engineer",
+      duration: "May 2024 – Present",
+    },
+    previous: {
+      company: "NetXD Inc",
+      title: "Backend Developer Intern",
+      duration: "Aug 2023 – May 2024",
+    },
+  },
+  learning: ["Go", "Cloud Architecture", "DevOps", "Security Engineering"],
+  askMeAbout: [
+    "DevOps",
+    "AWS",
+    "CI/CD pipelines",
+    "Kubernetes",
+    "Terraform",
+    "Cloud cost optimization",
+    "system security",
+    "backend engineering",
+    "monitoring & observability",
+  ],
+  techStack: {
+    cloud: ["AWS"],
+    containers: ["Docker", "Kubernetes"],
+    cicd: ["Jenkins", "GitHub Actions", "AWS CodePipeline"],
+    infraAsCode: ["Terraform", "CloudFormation"],
+    monitoring: ["Prometheus", "Grafana", "CloudWatch"],
+    security: ["SonarQube", "Trivy", "IAM", "WAF"],
+    languages: ["Go", "Python", "Bash"],
+    databases: ["MongoDB"],
+  },
+  hobbies: {
+    major: {
+      indoor: ["dancing", "cooking", "watching movies", "gaming"],
+      outdoor: ["traveling", "playing soccer"],
+    },
+    funFact: {
+      secret: ["I freaking love music 🎵"],
+    },
+  },
+  education: {
+    degree: "B.E. in Information Technology",
+    institute: "Bannari Amman Institute of Technology",
+    duration: "2020 – 2024",
+  },
 };
+
 ```
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 
