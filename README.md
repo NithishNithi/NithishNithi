@@ -10,7 +10,7 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 const MrNithishT = {
   pronouns: ["he", "him"],
   location: ["Chennai, Tamil Nadu, India"],
-  contact: ["nithishthangarasu02@gmail.com", "+91 9345444811"],
+  contact: ["nithishthangarasu02@gmail.com"],
   portfolio: ["https://mrnithisht.netlify.app"],
   role: ["DevOps Engineer"],
   experience: {
