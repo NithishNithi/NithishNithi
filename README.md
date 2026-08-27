@@ -11,7 +11,7 @@ const MrNithishT = {
   pronouns: ["he", "him"],
   location: ["Chennai / Salem, Tamil Nadu, India"],
   contact: ["nithishthangarasu02@gmail.com"],
-  portfolio: ["https://me.nithiverse.in"],
+  portfolio: ["me.nithiverse.in"],
   role: ["DevOps Engineer"],
   experience: "3+ years",
   focus: [
